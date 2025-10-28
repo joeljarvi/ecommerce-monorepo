@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_order_items",
+  "info": {
+    "displayName": "Order Item"
+  },
+  "options": {},
+  "attributes": {
+    "product_name": {
+      "type": "string"
+    },
+    "product_id": {
+      "type": "biginteger"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "quantity": {
+      "type": "integer"
+    },
+    "subtotal": {
+      "type": "decimal"
+    }
+  },
+  "config": {}
+}
